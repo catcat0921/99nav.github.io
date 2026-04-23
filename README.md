@@ -34,4 +34,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=99nav/99nav.github.io&type=Date)](https://star-history.com/#99nav/99nav.github.io&Date)](https://star-history.com/#52chatai/52chatai.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=99nav/99nav.github.io&type=Date)](https://star-history.com/#99nav/99nav.github.io&Date)
