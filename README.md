@@ -30,8 +30,8 @@
 
 如果您有任何需求、问题或建议，欢迎提出。您也可以发送邮件至：[52chatai@gmail.com](mailto://52chatai@gmail.com)
 
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/52chatai/52chatai.github.io)
+如果本项目对您有所帮助，欢迎 [Star](https://github.com/99nav/99nav.github.io)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=52chatai/52chatai.github.io&type=Date)](https://star-history.com/#52chatai/52chatai.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=99nav/99nav.github.io&type=Date)](https://star-history.com/#99nav/99nav.github.io&Date)](https://star-history.com/#52chatai/52chatai.github.io&Date)
